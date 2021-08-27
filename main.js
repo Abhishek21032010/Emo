@@ -1,4 +1,4 @@
-Webam.set(
+Webcam.set(
     {
         Width:350,
         height:300,
